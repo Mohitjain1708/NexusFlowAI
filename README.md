@@ -45,7 +45,7 @@
 
 ## 🌟 Overview
 
-**NexusFlow AI** is a production-quality, full-stack collaborative workspace platform built with modern TypeScript throughout. It brings together project management, real-time collaboration, and AI-powered assistance in a beautiful, responsive dark-mode interface.
+**NexusFlow AI** is a full-stack collaborative workspace platform built with modern TypeScript throughout. It brings together project management, real-time collaboration, and AI-powered assistance in a beautiful, responsive dark-mode interface.
 This codebase demonstrates production-grade patterns — JWT refresh token rotation, Socket.io presence tracking, optimistic UI updates, lazy-loaded code splitting, Prisma ORM migrations, Dockerized deployment, and CI/CD pipelines.
 
 ### Live Demo
